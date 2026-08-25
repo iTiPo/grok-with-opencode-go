@@ -1,0 +1,6 @@
+{
+    "id": "grok-with-opencode-go",
+    "version": "1.0.0",
+    "name": "Grok Build with OpenCode Go",
+    "description": "Configures Grok Build to use it with OpenCode Go subscription"
+}
