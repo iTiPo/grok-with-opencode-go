@@ -41,10 +41,10 @@ supports_backend_search = false
 reasoning_effort = "high"
 stream_tool_calls = true
 
-[model.opencode-kimi-k3]
+[model."opencode-kimi-k3"]
 model = "kimi-k3"
 base_url = "https://opencode.ai/zen/go/v1"
-name = "Kimi K3 (OpenCode)"
+name = "Kimi K3 (OpenCode Go)"
 env_key = "OPENCODE_GO_API_KEY_FOR_GROK"
 api_backend = "chat_completions"
 max_completion_tokens = 131072
